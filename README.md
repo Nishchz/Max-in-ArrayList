@@ -41,8 +41,24 @@
     </ul>
   <div>
     <h2>
-      📒
+      📒Concept Used
     </h2>
+    <ul>
+      <li>
+        Java Collection Framework
+      </li>
+      <li>
+        ArrayList
+      </li>
+      <li>
+        For loop
+      </li>
+      <li>
+        Integer.MIN_VALUE
+      </li>
+      <li>
+        Math.max()
+      </li>
   </div>
 </body>
     
