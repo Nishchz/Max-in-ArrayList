@@ -14,5 +14,18 @@
       📍About The Program
     </h1>
   </div>
+  <ul>
+    <p>
+      This program :
+    </p>
+    <li>
+      Creates an 
+      <b>ArrayList
+      </b>
+      of integers
+    </li>
+    
+  </ul>
+</body>
     
      
