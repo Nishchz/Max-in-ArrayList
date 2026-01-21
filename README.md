@@ -10,9 +10,9 @@
     </p>
   </div>
   <div>
-    <h1>
+    <h2>
       📍About The Program
-    </h1>
+    </h2>
   </div>
   <ul>
     <p>
