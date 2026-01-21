@@ -27,11 +27,22 @@
         <ol>
           <li>The <b>for loop</b> runs once for each elements in the Arraylist</li>
           <li>If the list has n elements the loop execute n times</li>
-          <li>Each iteration perform  a constant time operation <b>(MAth.max)</b></li>
+          <li>Each iteration perform  a constant time operation <b>(MATH.max)</b></li>
           <li>There are no nested loop in the program</li>
-          <li>Threfore the total time taken increased linearly with n</li>
+          <li>Therefore the total time taken increased linearly with n</li>
           <li><mark><b>Time Complexity = O(n)</b></mark></li>
         </ol>
+      </div>
+      <div>
+        <h2>🫙 Sapce Complexity</h2>
+          <ol>
+            <li>Only one extra variable <b> (max)</b> is used to store the maxium value</li>
+            <li>No additional data structure are created</li>
+            <li>The size of the extra does not depend on input size</li>
+            <li>The  ArrayList itself is part of the input..no extra space </li>
+            <li>Hence..the sapace used remains constant</li>
+            <li><mark><b>Space Complexity = O(1)</b></mark></li>
+          </ol>
       </div>
 </body>
     
