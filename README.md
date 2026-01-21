@@ -8,7 +8,7 @@
   </div>
   <ul>
     <p>This program :</p>
-    <li>Creates an <b>ArrayList</b>of integers</li>
+    <li>Creates an <b>ArrayList</b> of integers</li>
     <li>Inserts mulitple values </li>
     <li>Traverse in the list using a<b>for loop</b></li>
     <li>Finds the maximum elements using <mark> <b> Math.max()</b> </li></mark>
@@ -26,6 +26,11 @@
         <h2>⌛ Time Complexity</h2>
         <ol>
           <li>The <b>for loop</b> runs once for each elements in the Arraylist</li>
+          <li>If the list has n elements the loop execute n times</li>
+          <li>Each iteration perform  a constant time operation <b>(MAth.max)</b></li>
+          <li>There are no nested loop in the program</li>
+          <li>Threfore the total time taken increased linearly with n</li>
+          <li><mark><b>Time Complexity = O(n)</b></mark></li>
         </ol>
       </div>
 </body>
