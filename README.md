@@ -21,11 +21,29 @@
     <li>
       Creates an 
       <b>ArrayList
-      </b>
-      of integers
+      </b>of integers
     </li>
-    
-  </ul>
+    <li>
+      Inserts mulitple values
+    </li>
+    <li>
+      Traverse in the list using a
+      <b>
+        for loop
+      </b>
+    </li>
+    <li>
+      Finds the maximum elements using 
+      <b>
+        Math.max()
+      </b>
+    </li>
+    </ul>
+  <div>
+    <h2>
+      📒
+    </h2>
+  </div>
 </body>
     
      
